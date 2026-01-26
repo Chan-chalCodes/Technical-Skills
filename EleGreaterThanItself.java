@@ -1,6 +1,5 @@
 // ex: [5, 7, 2, -1, 8, 0, 12], ans: 6
-// Observation: For every max element there won't be any element greater than itself
-// pseudocode: 
+// Observation: For every max element there won't be any element greater than itself 
 import java.util.*;
 public class EleGreaterThanItself {
     public static void main(String[] args) {
@@ -30,3 +29,4 @@ public class EleGreaterThanItself {
     }
     
 }
+
